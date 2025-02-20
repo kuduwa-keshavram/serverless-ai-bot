@@ -1,0 +1,96 @@
+Apptware - TECHNICAL LEAD (May 2021 – Present)
+
+Key Responsibilities:
+Analyzed system documentation to develop strategic Development Plans, selecting the most suitable API type (SDK, REST, SOAP, or GraphQL) to support system requirements.
+Established robust authentication mechanisms, including API Key, AWS, Basic, Database, File, OAuth, Service Account, and SSH Authenticators, while creating comprehensive test suites.
+Pioneered methods for constructing Object Trees using JDBC Drivers from CDATA, Client SDKs, and REST, SOAP, or GraphQL APIs, and conducted rigorous testing to validate their functionality.
+Facilitated seamless data management by extracting, writing, deleting, cloning, and transferring data between Source and Destination Systems, leveraging CDATA, Client SDKs, and REST, SOAP, or GraphQL APIs. Comprehensive testing ensured data integrity.
+Designed and implemented robust Test Frameworks, automating test processes with JUnit and Mockito to streamline development and ensure code quality.
+Architected, developed, and sustained robust code for multiple shopping microservices, ensuring system stability and performance.
+Oversaw both server-side and client-side support for externalized configuration in a distributed environment, optimizing system flexibility.
+Implemented comprehensive instrumentation to capture, process, and export metrics, logs, and traces, enabling in-depth analysis of application performance and behaviour.
+Utilized version control for database schema changes, automating script order for seamless deployment and maintenance.
+Supervised application health and performance, utilizing HTTP endpoints to collect audit data and metrics, ensuring robust monitoring and management.
+
+Key Integrations:
+ActOn, Adobe Analytics, Airtable, Amazon S3, Amplitude, Box, CSV, Databricks, Dropbox, Excel, Excel 365, Facebook Ads, FTP, Generic API, Google Ads, Google Analytics GA4, Google Analytics UA, Google Big Query, Google Cloud Storage, Google Drive, Google Search Ads 360, Google Sheets, Greenhouse, HubSpot, Intercom, Jira, Klaviyo, LinkedIn Ads, Marketo, Microsoft Exchange, Microsoft One Drive, Microsoft Power Bi, Microsoft Project, Microsoft Sharepoint, Microsoft Teams, Mixpanel, NetSuite Analytics, Pendo, Pinterest Analytics, Quickbooks Online, Redshift, Salesforce, SFTP, Shopify Partner, Smartsheet, Snowflake, TikTok Ads, X, X Ads, Xero, YouTube Activity, YouTube Analytics, Zendesk.
+
+Key Achievements:
+Engineered a Spring Config Server utilizing Spring Cloud Config, streamlining configuration management.
+Established a robust monitoring system and implemented alerts using Signoz, enhancing system observability.
+Oversaw and managed database migrations efficiently with Liquibase, ensuring data consistency.
+Developed and maintained a reusable Spring Boot Library for Spring Data Entities and Repositories, facilitating their integration as libraries in multiple microservices.
+Configured Jenkins for seamless Continuous Deployments to staging and production environments, optimizing the development pipeline.
+Leveraged Spring Boot’s Actuator to provide comprehensive system information, including build details, Git information, Process ID, and Machine IP, enhancing build monitoring and management.
+
+PROJECT 5: DESCOPE
+(April 2023 - July 2023 | 4 Months)
+
+Key Responsibilities:
+Developed a Java SDK for Descope's User Management and Authentication APIs, enhancing user access and authentication convenience.
+Engineered a Spring Boot Library with auto-configuration for Java Descope SDK Beans, simplifying the authorization and security of HttpServletRequests.
+Architected a flexible and scalable system with loosely coupled components, ensuring adaptability and future-proofing.
+Produced comprehensive README documentation, offering step-by-step implementation guidance with illustrative examples.
+Performed rigorous automated testing, utilising mocked responses to validate the seamless interaction between REST APIs and the SDK.
+
+Key Achievements:
+SDK support to perform various authentication/authorization functions: OTP Authentication, Magic Link, Enchanted Link, OAuth, SSO/SAML, TOTP Authentication, Passwords, Session Validation, Roles & Permission Validation, Logging Out
+SDK support to perform API Management Functions: Manage Tenants, Manage Users, Manage Access Keys, Manage SSO Setting, Manage Permissions, Manage Roles, Query SSO Groups, Manage Flows, Manage JWTs, Search Audit
+
+PROJECT 2: ORION TALENTICA
+(Oct 2021 - Dec 2022 | 1 Year, 2 Months)
+
+Key Responsibilities:
+Designed and developed diverse surveys, utilizing algorithmic analysis to generate team improvement statistics.
+Successfully implemented REST APIs for the Admin Dashboard, integrating with MySQL using Spring Data for efficient data management.
+Automated the generation of customized PDF reports, meeting client specifications, and facilitating streamlined distribution to designated teams via email.
+Revamped legacy code, aligning it with coding standards and delivering optimized solutions.
+Conducted thorough Postman tests to ensure code changes met precise specifications and requirements.
+
+Key Achievements:
+Drove a 40% increase in app stability and significantly improved the overall user experience by identifying and optimizing code inefficiencies.
+Enhanced system efficiency by implementing concurrency, resulting in faster response times and more efficient internal processing of reports.
+Crafted a high-performance service for creating pixel-perfect dynamic reports, ensuring precision and quality in reporting output.
+
+PROJECT 1: APPTMART (Apptware’s Product)
+(May 2021 - Oct 2021 | 6 Months)
+
+Key Achievements:
+New Batch Import procedure from an Excel file using Spring Batch and Spring Batch Extensions: Batch Import - Excel to Database.
+Externalized configurations to a config server, and made applications use a client to pull those configurations and use them locally: Dev-2-Deployment: Spring Cloud Config using GitLab with Spring Boot.
+Integrated a standard delivery module for delivery partners like Delhivery, Dunzo, ShipRocket, etc.
+
+Pure Knowledge Solutions LLP - SOFTWARE ENGINEER (July 2019 – May 2021)
+
+PROJECTS:
+PaperTrue, Order Management System for PaperTrue, JOT for PaperTrue, Merops for PaperTrue, BestAdmit, CensusJs Docs, 🔗CensusJs
+
+Key Responsibilities:
+Developed and maintained stable code for multiple web projects, ensuring high-quality deliverables.
+Implemented REST APIs, integrating with databases like MySQL (using Spring Data JPA & Hibernate), MongoDB, and Firestore (Angular-Fire).
+Collaborated effectively with cross-functional teams and higher management to deliver new web features and resolve bugs promptly.
+Gathered user feedback and requirements, leading to the successful design and development of new dashboard features.
+Executed comprehensive tests using Postman to verify code changes aligned with specifications and requirements.
+Provided crucial support during quality assurance, user acceptance testing, and post-implementation stages.
+Deployed applications to multiple AWS Linux & Windows EC2 instances using Jenkins, while configuring corresponding Custom Linux Services, AWS RDS, Nginx, and Cloudflare setups.
+
+Key Achievements:
+Identified and optimised code inefficiencies, resulting in a remarkable 40% increase in app stability and enhanced overall user experience.
+Implemented innovative solutions that achieved a significant 30% reduction in the app's memory consumption and final packaged .jar size. Successfully eliminated third-party service dependency by developing independent features, restructuring APIs, and refactoring the codebase.
+Pioneered the development of a highly effective Order Management System, replacing Trello Boards, resulting in improved productivity and streamlined workflows.
+Designed and implemented a Custom Realtime Logger (JOT), enhancing application monitoring capabilities and facilitating rapid debugging.
+Successfully integrated Firebase Firestore, Google Cloud Functions, and Angular-Fire to deliver real-time notifications, significantly improving user engagement and experience.
+Utilized Cloudflare workers for static APIs, resulting in substantial improvements in PageSpeed insights and GTMatrix scores, leading to enhanced website performance and user satisfaction.
+
+
+CNC Web World - JAVA TRAINEE (December 2018 – June 2019)
+
+Flamingooo Cargo & Logistics - SOCIAL MEDIA MANAGER (November 2017 – November 2018)
+
+Key Responsibilities:
+Perform research on current benchmark trends and audience preferences
+Generate, edit, publish and share engaging content daily (e.g. original text, photos, videos and news).
+Communicate with followers, respond to queries in a timely manner and monitor customer reviews.
+Oversee social media accounts’ design (e.g. Facebook timeline cover, profile pictures and blog layout).
+Suggest and implement new features to develop brand awareness, like promotions and competitions.
+Stay up-to-date with current technologies and trends in social media, design tools and applications.

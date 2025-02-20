@@ -1,0 +1,4 @@
+🎤 Public Speaker: Gave a tech talk at a hackathon event on modular microservice architecture.
+👨‍🏫 Live Coding Host: Conduct weekly coding sessions at Apptware, covering Java, AI, and Cloud topics.
+📢 Conference Presenter: Led internal discussions on design patterns, API authentication, and microservices architecture.
+🏆 Hackathon Organizer: Hosted and managed two hackathons driving developer engagement.

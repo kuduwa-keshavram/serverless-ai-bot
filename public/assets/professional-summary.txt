@@ -1,0 +1,5 @@
+Dedicated and detail-oriented Technical Lead crafting high-quality web and headless applications. My passion lies in designing efficient, scalable solutions that enhance user experiences while adhering to modern development practices.
+
+With strong technical expertise in Java, JavaScript, and TypeScript, my approach to development is grounded in Object-Oriented Programming (OOP) and Test-Driven Development (TDD).
+
+I thrive in collaborative environments, where I can apply my problem-solving skills and commitment to continuous learning to tackle complex challenges. Driven by curiosity and a love for technology, I am always eager to explore new tools and methodologies that push the boundaries of innovation.

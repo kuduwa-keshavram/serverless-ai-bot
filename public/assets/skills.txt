@@ -1,0 +1,11 @@
+Category: Technologies
+Languages: Java 21, TypeScript
+Frameworks: Spring Boot, Spring Cloud, Spring AMQP, Spring Batch, Angular, React
+Databases: MySQL, PostgreSQL, Cloud Firestore, MongoDB
+Cloud Platforms: Azure, AWS, Cloudflare
+Observability: Signoz, ELK Stack (Elasticsearch, Logstash, Kibana), Inspectlet, Sentry
+Migration Tools: Liquibase, Flyway
+ORMs: Spring Data, Hibernate, Sequelize.js
+IDEs: IntelliJ, Eclipse, VS Code
+Version Control: GitLab, BitBucket, GitHub
+Methodologies: Object-Oriented Programming (OOP), Test-Driven Development (TDD)

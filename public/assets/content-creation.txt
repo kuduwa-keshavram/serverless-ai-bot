@@ -1,0 +1,3 @@
+📝 LinkedIn Newsletter: Minute-Read Articles (bite-sized tech insights).
+📄 Technical Documentation: Wrote SDK guides & API docs for Descope Java SDK.
+📺 Video Content: Created tech videos on LinkedIn & YouTube covering Java and backend engineering.
